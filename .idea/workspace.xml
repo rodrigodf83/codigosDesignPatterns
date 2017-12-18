@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e993a7-b834-4c04-9d63-d4e65d98200c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/DrawAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/GreenCircle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/MainClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/RedCicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample1/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaAbstrata.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaAviso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaDialogo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaImplementada.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaLinux.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/JanelaWindows.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BridgeExample2/MainClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -480,7 +468,7 @@
       <workItem from="1513434456325" duration="3693000" />
       <workItem from="1513518810213" duration="9674000" />
       <workItem from="1513601538764" duration="577000" />
-      <workItem from="1513603006743" duration="7149000" />
+      <workItem from="1513603006743" duration="7727000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro commti para o github">
       <created>1513603183510</created>
@@ -507,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23789000" />
+    <option name="totallyTimeSpent" value="24367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
